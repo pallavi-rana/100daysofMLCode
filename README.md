@@ -15,6 +15,7 @@ Encoded categorical columns(columns with 2 categories with label encoding and co
 
 ## Day 3: 8th July, 2018
 ### Work Done: 
+Finding correlation of the columns with target.
 
 ## Day 4: 9th July, 2018
 ### Work Done: 
