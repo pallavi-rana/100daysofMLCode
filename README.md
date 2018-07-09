@@ -19,6 +19,7 @@ Finding correlation of the columns with target.
 
 ## Day 4: 9th July, 2018
 ### Work Done: 
+Completed week 1 of Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization on Coursera.
 
 ## Day 5: 10th July, 2018
 ### Work Done: 
