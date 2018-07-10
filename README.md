@@ -23,6 +23,7 @@ Completed week 1 of Improving Deep Neural Networks: Hyperparameter tuning, Regul
 
 ## Day 5: 10th July, 2018
 ### Work Done: 
+Completed week 2 of Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization on Coursera.
 
 ## Day 6: 11th July, 2018
 ### Work Done: 
