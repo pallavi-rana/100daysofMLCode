@@ -19,17 +19,19 @@ Finding correlation of the columns with target.
 
 ## Day 4: 9th July, 2018
 ### Work Done: 
-Completed week 1 of Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization on Coursera.
+Completed week 1 of Improving Deep Neural Networks on Coursera.
 
 ## Day 5: 10th July, 2018
 ### Work Done: 
-Completed week 2 of Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization on Coursera.
+Completed week 2 of Improving Deep Neural Networks on Coursera.
 
 ## Day 6: 11th July, 2018
 ### Work Done: 
+Studied about hyperparameter tuning and batch normalization on week 3 of Improving Deep Neural Networks on Coursera.
 
 ## Day 7: 12th July, 2018
 ### Work Done: 
+Leart to use TensorFlow and built a neural network using TensorFlow to classify images. Completed week 3 of Improving Deep Neural Networks on Coursera.
 
 ## Day 8: 13th July, 2018
 ### Work Done: 
