@@ -12,7 +12,6 @@ Exploratory data analysis on Home Credit Risk Data. Examined missing values and 
 ### Work Done:
 Encoded categorical columns(columns with 2 categories with label encoding and columns with more than 2 categories with one-hot encoding). Aligned training data with test data.
 
-
 ## Day 3: 8th July, 2018
 ### Work Done: 
 Finding correlation of the columns with target.
@@ -36,10 +35,8 @@ Leart to use TensorFlow and built a neural network using TensorFlow to classify 
 ## Day 8: 13th July, 2018
 ### Work Done: 
 Started Feature Engineering for Home Credit Default Risk. Generated polynomial features for a few columns and investigated their correlations with the target. 
-
 ### Outcome:
 Some of the polynomial features have a greater correlation with the target than the original features. These features can be helpful in building a better model.
-
 
 ## Day 9: 14th July, 2018
 ### Work Done: 
@@ -49,7 +46,9 @@ It is hard to tell from the KDE plots of the domain features if these will have 
 
 ## Day 10: 15th July, 2018
 ### Work Done: 
-
+Performed imputation and normalization of the original features after encoding categorical values. Then used logistic regression to predict the target.
+### Outcome:
+Accuracy for this model is 67%.
 
 ## Day 11: 16th July, 2018
 ### Work Done: 
