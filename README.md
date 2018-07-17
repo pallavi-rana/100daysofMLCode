@@ -35,12 +35,21 @@ Leart to use TensorFlow and built a neural network using TensorFlow to classify 
 
 ## Day 8: 13th July, 2018
 ### Work Done: 
+Started Feature Engineering for Home Credit Default Risk. Generated polynomial features for a few columns and investigated their correlations with the target. 
+
+### Outcome:
+Some of the polynomial features have a greater correlation with the target than the original features. These features can be helpful in building a better model.
+
 
 ## Day 9: 14th July, 2018
 ### Work Done: 
+Attempted to get some intuition by examining domain knowledge features, insipred by <a href=https://www.kaggle.com/jsaguiar/updated-0-792-lb-lightgbm-with-simple-features>Aguiar's kernel</a>. Then, examined the 
+### Outcome:
+It is hard to tell from the KDE plots of the domain features if these will have a signifact impact on target.
 
 ## Day 10: 15th July, 2018
 ### Work Done: 
+
 
 ## Day 11: 16th July, 2018
 ### Work Done: 
