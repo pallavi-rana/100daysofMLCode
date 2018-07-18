@@ -52,12 +52,19 @@ Accuracy for this model is 67%.
 
 ## Day 11: 16th July, 2018
 ### Work Done: 
+Investigating missing value correlation with target.
+### Outcome:
+Applicants with more missing data about housing were found to have more default ratio.
 
 ## Day 12: 17th July, 2018
 ### Work Done: 
 
+### Outcome:
+
 ## Day 13: 18th July, 2018
 ### Work Done: 
+
+### Outcome:
 
 ## Day 14: 19th July, 2018
 ### Work Done: 
