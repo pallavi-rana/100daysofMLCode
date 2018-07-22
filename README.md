@@ -6,7 +6,7 @@ Started working on <a href=https://www.kaggle.com/c/home-credit-default-risk/>Ho
 
 ## Day 1: 6th July, 2018
 ### Work Done: 
-Exploratory data analysis on Home Credit Risk Data. Examined missing values and anomalies.
+Exploratory data analysis on Home Credit Risk Data. Examined missing values and anomalies in application train.
 
 ## Day 2: 7th July, 2018
 ### Work Done:
@@ -35,51 +35,48 @@ Leart to use TensorFlow and built a neural network using TensorFlow to classify 
 ## Day 8: 13th July, 2018
 ### Work Done: 
 Started Feature Engineering for Home Credit Default Risk. Generated polynomial features for a few columns and investigated their correlations with the target. 
-### Outcome:
-Some of the polynomial features have a greater correlation with the target than the original features. These features can be helpful in building a better model.
 
 ## Day 9: 14th July, 2018
 ### Work Done: 
 Attempted to get some intuition by examining domain knowledge features, insipred by <a href=https://www.kaggle.com/jsaguiar/updated-0-792-lb-lightgbm-with-simple-features>Aguiar's kernel</a>. Then, examined the 
-### Outcome:
-It is hard to tell from the KDE plots of the domain features if these will have a signifact impact on target.
 
 ## Day 10: 15th July, 2018
 ### Work Done: 
 Performed imputation and normalization of the original features after encoding categorical values. Then used logistic regression to predict the target.
-### Outcome:
-Accuracy for this model is 67%.
 
 ## Day 11: 16th July, 2018
 ### Work Done: 
 Investigating missing value correlation with target.
-### Outcome:
-Applicants with more missing data about housing were found to have more default ratio.
 
 ## Day 12: 17th July, 2018
 ### Work Done: 
-
-### Outcome:
+Performed EDA for bureau data.
 
 ## Day 13: 18th July, 2018
 ### Work Done: 
+Performed EDA for bureau balance data.
 
 ### Outcome:
 
 ## Day 14: 19th July, 2018
 ### Work Done: 
+Performed EDA for POS Cash balance data.
 
 ## Day 15: 20th July, 2018
 ### Work Done: 
+Performed EDA for credit card balance data.
 
 ## Day 16: 21st July, 2018
 ### Work Done: 
+Performed EDA for previous applications.
 
 ## Day 17: 22nd July, 2018
 ### Work Done: 
+Went through <a href=https://www.datacamp.com/community/tutorials/feature-engineering-kaggle>this tutorial</a> on feature engineering.
 
 ## Day 18: 23rd July, 2018
 ### Work Done: 
+This <a href=https://github.com/nova-009/Home-Credit-Default-Risk/commit/206a3165efb44f58ecf5fb836252d55d4796e00c>commit</a>. Completed EDA and investigation of missing values for all the files.
 
 ## Day 19: 24th July, 2018
 ### Work Done: 
