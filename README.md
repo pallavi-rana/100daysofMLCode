@@ -80,6 +80,7 @@ This <a href=https://github.com/nova-009/Home-Credit-Default-Risk/commit/206a316
 
 ## Day 19: 24th July, 2018
 ### Work Done: 
+This <a href=https://github.com/nova-009/InMyFeelingsChallenge/commit/90d1e7a071c767f3fee9af7558a62b92d2c2a8aa>commit</a> to process a video for InMyFeelingsChallenge.
 
 ## Day 20: 25th July, 2018
 ### Work Done: 
