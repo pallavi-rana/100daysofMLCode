@@ -84,9 +84,11 @@ This <a href=https://github.com/nova-009/InMyFeelingsChallenge/commit/90d1e7a071
 
 ## Day 20: 25th July, 2018
 ### Work Done: 
+Tried PCA to reduce dimensionality of images from 8100(90x90) to 6400, but the reconstructions are not good enough.
 
 ## Day 21: 26th July, 2018
 ### Work Done: 
+Started reading about autoencoders for image compression.
 
 ## Day 22: 27th July, 2018
 ### Work Done: 
