@@ -92,9 +92,11 @@ Started reading about autoencoders for image compression.
 
 ## Day 22: 27th July, 2018
 ### Work Done: 
+Built a simple autoencoder using keras.
 
 ## Day 23: 28th July, 2018
 ### Work Done: 
+Built a deep autoencoder using keras.
 
 ## Day 24: 29th July, 2018
 ### Work Done: 
@@ -104,3 +106,204 @@ Started reading about autoencoders for image compression.
 
 ## Day 26: 31st July, 2018
 ### Work Done: 
+
+## Day 27: 1st August, 2018
+### Work Done: 
+
+## Day 28: 2nd August, 2018
+### Work Done: 
+
+## Day 29: 3rd August, 2018
+### Work Done: 
+
+## Day 30: 4th August, 2018
+### Work Done: 
+
+## Day 31: 5th August, 2018
+### Work Done: 
+
+## Day 32: 6th August, 2018
+### Work Done: 
+
+## Day 33: 7th August, 2018
+### Work Done: 
+
+## Day 34: 8th August, 2018
+### Work Done: 
+
+## Day 35: 9th August, 2018
+### Work Done: 
+
+## Day 36: 10th August, 2018
+### Work Done: 
+
+## Day 37: 11th August, 2018
+### Work Done: 
+
+## Day 38: 12th August, 2018
+### Work Done: 
+
+## Day 39: 13th August, 2018
+### Work Done: 
+
+## Day 40: 14th August, 2018
+### Work Done: 
+
+## Day 41: 15th August, 2018
+### Work Done: 
+
+## Day 42: 16th August, 2018
+### Work Done: 
+
+## Day 43: 17th August, 2018
+### Work Done: 
+
+## Day 44: 18th August, 2018
+### Work Done: 
+
+## Day 45: 19th August, 2018
+### Work Done: 
+
+## Day 46: 20th August, 2018
+### Work Done: 
+
+## Day 47: 21st August, 2018
+### Work Done: 
+
+## Day 48: 22nd August, 2018
+### Work Done: 
+
+## Day 49: 23rd August, 2018
+### Work Done: 
+
+## Day 50: 24th August, 2018
+### Work Done: 
+
+## Day 51: 25th August, 2018
+### Work Done: 
+
+## Day 52: 26th August, 2018
+### Work Done: 
+
+## Day 53: 27th August, 2018
+### Work Done: 
+
+## Day 54: 28th August, 2018
+### Work Done: 
+
+## Day 55: 29th August, 2018
+### Work Done: 
+
+## Day 56: 30th August, 2018
+### Work Done: 
+
+## Day 57: 31 August, 2018
+### Work Done: 
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
+
+## Day :  September, 2018
+### Work Done:
