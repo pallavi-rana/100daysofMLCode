@@ -100,6 +100,7 @@ Built a deep autoencoder using keras.
 
 ## Day 24: 29th July, 2018
 ### Work Done: 
+Built an autoencoder with CNN using keras.
 
 ## Day 25: 30th July, 2018
 ### Work Done: 
