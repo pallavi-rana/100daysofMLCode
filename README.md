@@ -198,113 +198,131 @@ Built an autoencoder with CNN using keras.
 ## Day 56: 30th August, 2018
 ### Work Done: 
 
-## Day 57: 31 August, 2018
+## Day 57: 31st August, 2018
 ### Work Done: 
 
-## Day :  September, 2018
+## Day 58: 1st September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 59: 2nd September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 60: 3rd September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 61: 4th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 62: 5th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 63: 6th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 64: 7th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 65: 8th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 66: 9th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 67: 10th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 68: 11th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 69: 12th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 70: 13th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 71: 14th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 72: 15th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 73: 16th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 74: 17th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 75: 18th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 76: 19th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 77: 20th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 78: 21st September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 79: 22nd September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 80: 23rd September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 81: 24th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 82: 25th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 83: 26th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 84: 27th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 85: 28th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 86: 29th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 87: 30th September, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 88: 1st October, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 89: 2nd October, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 90: 3rd October, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 91: 4th October, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 92: 5th October, 2018
 ### Work Done:
 
-## Day :  September, 2018
+## Day 93: 6th October, 2018
+### Work Done:
+
+## Day 94: 7th October, 2018
+### Work Done:
+
+## Day 95: 8th October, 2018
+### Work Done:
+
+## Day 96: 9th October, 2018
+### Work Done:
+
+## Day 97: 10th October, 2018
+### Work Done:
+
+## Day 98: 11th October, 2018
+### Work Done:
+
+## Day 99: 12th October, 2018
 ### Work Done:
