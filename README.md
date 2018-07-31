@@ -108,6 +108,7 @@ This <a href=https://github.com/nova-009/sms-spam-classification>program</a> for
 
 ## Day 26: 31st July, 2018
 ### Work Done: 
+Built a convolutional autoencoder and copressed frames of dance video for #InMyFeelingsChallenge.
 
 ## Day 27: 1st August, 2018
 ### Work Done: 
