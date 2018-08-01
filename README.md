@@ -112,6 +112,7 @@ Built a convolutional autoencoder and copressed frames of dance video for #InMyF
 
 ## Day 27: 1st August, 2018
 ### Work Done: 
+Built an LSTM to generate image sequences for #InMYFeelingsChallenge video.
 
 ## Day 28: 2nd August, 2018
 ### Work Done: 
