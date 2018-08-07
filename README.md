@@ -116,21 +116,27 @@ Built an LSTM to generate image sequences for #InMYFeelingsChallenge video.
 
 ## Day 28: 2nd August, 2018
 ### Work Done: 
+Reading the book Programming Collective Intelligence.
 
 ## Day 29: 3rd August, 2018
 ### Work Done: 
+Reading the book Programming Collective Intelligence.
 
 ## Day 30: 4th August, 2018
 ### Work Done: 
+Implemented SVM using numpy.
 
 ## Day 31: 5th August, 2018
 ### Work Done: 
+Reading about RNN.
 
 ## Day 32: 6th August, 2018
 ### Work Done: 
+Reading the book Programming Collective Intelligence.
 
 ## Day 33: 7th August, 2018
 ### Work Done: 
+Reading about LSTM networks.
 
 ## Day 34: 8th August, 2018
 ### Work Done: 
