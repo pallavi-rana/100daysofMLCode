@@ -140,15 +140,19 @@ Reading about LSTM networks.
 
 ## Day 35: 8th August, 2018
 ### Work Done: 
+Built an lstm with timestep 1 for predicting video frames. 
 
 ## Day 36: 9th August, 2018
 ### Work Done: 
+Experimenting with timesteps.
 
 ## Day 37: 10th August, 2018
 ### Work Done: 
+Week 1 of Structuring Machine Learning Projects on Coursera.
 
 ## Day 38: 11th August, 2018
 ### Work Done: 
+Week 1 of Structuring Machine Learning Projects on Coursera.
 
 ## Day 39: 12th August, 2018
 ### Work Done: 
@@ -158,6 +162,7 @@ Reading about LSTM networks.
 
 ## Day 41: 14th August, 2018
 ### Work Done: 
+
 
 ## Day 42: 15th August, 2018
 ### Work Done: 
