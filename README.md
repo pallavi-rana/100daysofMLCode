@@ -156,40 +156,51 @@ Week 1 of Structuring Machine Learning Projects on Coursera.
 
 ## Day 39: 12th August, 2018
 ### Work Done: 
+Week 1 of Structuring Machine Learning Projects on Coursera.
 
 ## Day 40: 13th August, 2018
 ### Work Done: 
+Week 1 of Structuring Machine Learning Projects on Coursera.
 
 ## Day 41: 14th August, 2018
 ### Work Done: 
-
+Week 1 of Structuring Machine Learning Projects on Coursera.
 
 ## Day 42: 15th August, 2018
 ### Work Done: 
+Week 1 of Structuring Machine Learning Projects on Coursera.
 
 ## Day 43: 16th August, 2018
 ### Work Done: 
+Week 1 of Structuring Machine Learning Projects on Coursera.
 
 ## Day 44: 17th August, 2018
 ### Work Done: 
+Week 2 of Structuring Machine Learning Projects on Coursera.
 
 ## Day 45: 18th August, 2018
 ### Work Done: 
+Week 2 of Structuring Machine Learning Projects on Coursera.
 
 ## Day 46: 19th August, 2018
 ### Work Done: 
+Week 2 of Structuring Machine Learning Projects on Coursera.
 
 ## Day 47: 20th August, 2018
 ### Work Done: 
+Week 2 of Structuring Machine Learning Projects on Coursera.
 
 ## Day 48: 21st August, 2018
 ### Work Done: 
+Week 2 of Structuring Machine Learning Projects on Coursera.
 
 ## Day 49: 22nd August, 2018
 ### Work Done: 
+Week 2 of Structuring Machine Learning Projects on Coursera.
 
 ## Day 50: 23rd August, 2018
 ### Work Done: 
+Week 2 of Structuring Machine Learning Projects on Coursera.
 
 ## Day 51: 24th August, 2018
 ### Work Done: 
