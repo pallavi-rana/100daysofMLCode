@@ -204,45 +204,59 @@ Week 2 of Structuring Machine Learning Projects on Coursera.
 
 ## Day 51: 24th August, 2018
 ### Work Done: 
+Week 1 of Convolutional Neural Networks on Coursera.
 
 ## Day 52: 25th August, 2018
 ### Work Done: 
+Week 1 of Convolutional Neural Networks on Coursera.
 
 ## Day 53: 26th August, 2018
 ### Work Done: 
+Week 1 of Convolutional Neural Networks on Coursera.
 
 ## Day 54: 27th August, 2018
 ### Work Done: 
+Week 1 of Convolutional Neural Networks on Coursera.
 
 ## Day 55: 28th August, 2018
 ### Work Done: 
+Week 1 of Convolutional Neural Networks on Coursera.
 
 ## Day 56: 29th August, 2018
 ### Work Done: 
+Week 1 of Convolutional Neural Networks on Coursera.
 
 ## Day 57: 30th August, 2018
 ### Work Done: 
+Week 1 of Convolutional Neural Networks on Coursera.
 
 ## Day 58: 31st August, 2018
 ### Work Done: 
+Week 2 of Convolutional Neural Networks on Coursera.
 
 ## Day 59: 1st September, 2018
 ### Work Done:
+Week 2 of Convolutional Neural Networks on Coursera.
 
 ## Day 60: 2nd September, 2018
 ### Work Done:
+Week 2 of Convolutional Neural Networks on Coursera.
 
 ## Day 61: 3rd September, 2018
 ### Work Done:
+Week 2 of Convolutional Neural Networks on Coursera.
 
 ## Day 62: 4th September, 2018
 ### Work Done:
+Week 2 of Convolutional Neural Networks on Coursera.
 
 ## Day 63: 5th September, 2018
 ### Work Done:
+Week 2 of Convolutional Neural Networks on Coursera.
 
 ## Day 64: 6th September, 2018
 ### Work Done:
+Week 2 of Convolutional Neural Networks on Coursera.
 
 ## Day 65: 7th September, 2018
 ### Work Done:
